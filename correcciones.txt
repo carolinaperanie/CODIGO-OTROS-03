@@ -1,0 +1,9 @@
+este documento es para ir antotando las correcciones en orden, aunque de cualquier forma se harán los comentarios en cada script.
+
+1.Se deben estructurar las carpetas para tener más claridad de los archivos: se movieron los arhivos ".jpg" a la nueva Carpeta Assets, en una subcarpeta de nombre "Zapatos".
+
+2. se crecrean las carpetas con su archivo correspondiente. EJ: Javascript>filtro.js.
+
+3. Linkear o actualizar las nuevas referencias o rutas de las carpetas alos archivos o scripts correspondientes.
+
+4.Leer el Script de javascript para enteender un poco que se quiere lograr con las funciones y agreagar comentatios para que sea más claro el código. 
